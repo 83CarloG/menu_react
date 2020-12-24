@@ -1,3 +1,8 @@
+# Menu Gooney
+
+Menu a Margherita realizzato con React e Typescript. Html e Css sono in parte ripresi da https://codepen.io/lbebber/details/RNgBPP,
+seguendo la live di Fabio Biondi https://www.youtube.com/watch?v=tC6DnUy4TvE&t=14s.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,4 +49,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 # menu_react
