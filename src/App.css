@@ -28,18 +28,19 @@ h1 {
 
 .menu-item,
 .menu-open-button {
-  background: #e91e63;
+  background: #F9BB05;
   border-radius: 100%;
   width: 80px;
   height: 80px;
   margin-left: -40px;
   position: absolute;
   top: 20px;
-  color: white;
+  color: #007C2F;
   text-align: center;
   line-height: 80px;
   transform: translate3d(0, 0, 0);
   transition: transform ease-out 200ms;
+  cursor: pointer;
 }
 
 .menu-open {
@@ -49,7 +50,7 @@ h1 {
 .hamburger {
   width: 25px;
   height: 3px;
-  background: white;
+  background: #007C2F;
   display: block;
   position: absolute;
   top: 50%;
@@ -73,6 +74,7 @@ h1 {
 
 .menu-open.opened + .menu-open-button .hamburger-1 {
   transform: translate3d(0, 0, 0) rotate(45deg);
+
 }
 
 .menu-open.opened + .menu-open-button .hamburger-2 {
@@ -97,8 +99,8 @@ h1 {
 }
 
 .menu-item:hover {
-  background: white;
-  color: #e91e63;
+  background: #007C2F;
+  color:  #F9BB05;
 }
 
 .menu-item:nth-child(3) {
@@ -185,3 +187,6 @@ h1 {
   transition-duration: 780ms;
   transform: translate3d(-0.25084px, -104.9997px, 0);
 }
+
+/* Fontawesome */
+
