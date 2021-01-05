@@ -1,4 +1,4 @@
-# Menu Gooney
+# Menu Gooney React+TS
 
 Menu a Margherita realizzato con React e Typescript. Html e Css sono in parte ripresi da https://codepen.io/lbebber/details/RNgBPP,
 seguendo la live di Fabio Biondi https://www.youtube.com/watch?v=tC6DnUy4TvE&t=14s.
@@ -50,4 +50,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# menu_react
